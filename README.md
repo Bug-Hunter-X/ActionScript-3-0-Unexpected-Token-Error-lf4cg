@@ -1,0 +1,1 @@
+This repository contains a simple ActionScript 3.0 program that demonstrates an unexpected token error. The error occurs because the trace() function is used incorrectly. The solution shows how to fix the error.
